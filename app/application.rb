@@ -30,7 +30,7 @@ class Application
     else
       resp.write "Path Not Found"
     end
-  end 
+  end
 # class Application
 #
 #   @@items = ["Apples","Carrots","Pears"]
