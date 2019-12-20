@@ -27,9 +27,9 @@ class Application
       else
         resp.write "We don't have that item"
       end
-    else	    else
-      resp.write "Path Not Found"	      resp.write "Path Not Found"
-    end	    end
+    else	 
+      resp.write "Path Not Found"	   
+    end	    
 # class Application
 #
 #   @@items = ["Apples","Carrots","Pears"]
